@@ -1,0 +1,17 @@
+
+Clothing:
+Product ID: 1
+Product Name: a
+Available Items: 1
+Price: 1.0
+Size: a
+Colour: a
+=================
+Electronics:
+Product ID: 2
+Product Name: b
+Available Items: 2
+Price: 2.0
+Brand: w
+Warranty Period: 3
+=================
